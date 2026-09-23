@@ -1,4 +1,4 @@
-# Clone da Landing Page do Starbucks ☕
+# Clone da Pagina Inicial do Starbucks ☕
 
 Este projeto consiste no desenvolvimento de uma cópia fiel da interface da página inicial do Starbucks, construída com foco em responsividade e na replicação de um design moderno de mercado.
 
