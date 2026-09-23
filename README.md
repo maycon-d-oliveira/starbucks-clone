@@ -6,7 +6,6 @@ Este projeto consiste no desenvolvimento de uma cópia fiel da interface da pág
 
 * **HTML5:** Estruturação semântica do conteúdo.
 * **CSS3 / Bootstrap:** Estilização dos elementos e suporte ao layout responsivo.
-* **Git e GitHub:** Controle de versão e hospedagem do código.
 
 ## 💻 Funcionalidades
 
