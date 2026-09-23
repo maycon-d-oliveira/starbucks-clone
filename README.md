@@ -28,4 +28,4 @@ Se você quiser clonar e rodar o projeto na sua máquina, siga os passos abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/starbucks-clone.git](https://github.com/SEU-USUARIO/starbucks-clone.git)
+   git clone [https://github.com/maycon-d-oliveira/starbucks-clone.git](https://github.com/SEU-USUARIO/starbucks-clone.git)
